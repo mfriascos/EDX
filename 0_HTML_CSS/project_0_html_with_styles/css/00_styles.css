@@ -1,0 +1,17 @@
+#foo {
+    color: aqua;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.baz {
+    color: aquamarine;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body {
+    color: blue;
+    text-align: justify;
+}
